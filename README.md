@@ -47,5 +47,4 @@
 
 
 
-<a href="https://federicodiaz-portfolio.netlify.app/" target="blank"><img align="center"
-      alt="fedediaz" height="30" width="40" /><p>My portfolio web</p></a>
+<a href="https://federicodiaz-portfolio.netlify.app/" target="blank"><p>My portfolio web</p></a>
