@@ -47,4 +47,5 @@
 
 
 
-[My portfolio web]([https://github.com/FedericoDiaz-ux](https://federicodiaz-portfolio.netlify.app/))
+<a href="https://federicodiaz-portfolio.netlify.app/" target="blank"><img align="center"
+      alt="fedediaz" height="30" width="40" /><p>My portfolio web</p></a>
