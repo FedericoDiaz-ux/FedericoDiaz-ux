@@ -47,4 +47,4 @@
 
 
 
-<a href="https://federicodiaz-portfolio.netlify.app/">My portfolio web</a>
+<a href="https://federicodiaz-portfolio.netlify.app/" target="blank">My portfolio web</a>
