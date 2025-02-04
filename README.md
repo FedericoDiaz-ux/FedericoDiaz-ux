@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Python, java and other programming languages
 
-- 📫 How to reach me **fedediaz008@gmail.com**
+- 📫 How to reach me **federico.diaz.work@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
